@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6d28d9?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.E-Computer%20Science%20%26%20Engineering-6d28d9?style=flat-square&logo=academia&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Specialisation-Cybersecurity%20%26%20AI-7c3aed?style=flat-square&logo=shield&logoColor=white" />
   &nbsp;
@@ -43,7 +43,7 @@
 ## ◈ About
 
 <p align="left">
-B.Tech Computer Science & Engineering student with a deep focus on Cybersecurity and Artificial Intelligence. Passionate about building secure systems, identifying vulnerabilities, and applying AI/ML techniques to solve complex security challenges at scale.
+B.E Computer Science & Engineering student with a deep focus on Cybersecurity and Artificial Intelligence. Passionate about building secure systems, identifying vulnerabilities, and applying AI/ML techniques to solve complex security challenges at scale.
 
 Driven by a belief that the next generation of digital infrastructure must be both intelligent and resilient — combining offensive and defensive security knowledge with practical machine learning to engineer systems that are robust against modern threat actors.
 
